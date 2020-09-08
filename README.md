@@ -1,9 +1,13 @@
-# mugi-writeups
+# Table of Contents
+* [Description](#mugi-writeups)
+* [Useful Resources](#useful-resources-:heart_eyes_cat:)
+
+# Mugi Writeups
 
 Collection of what I leart and was used in the IT security xD
 
 
-## useful resources
+## Useful Resources :heart_eyes_cat:
 
 [CTF resources](https://github.com/ctfs/resources)
 
