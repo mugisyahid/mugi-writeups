@@ -9,6 +9,10 @@
 
 Collection of what I leart and was used in the IT security xD
 
+## Linux
+
+useful [linux](linux/README.md) command     
+
 ## Tools
 [Tools](tools/README.md)     
 
@@ -25,4 +29,6 @@ Collection of what I leart and was used in the IT security xD
 
 [LiveOverflow](https://www.youtube.com/c/LiveOverflowCTF) 
 
-[John Hammond](https://www.youtube.com/user/RootOfTheNull) 
+[John Hammond](https://www.youtube.com/user/RootOfTheNull)
+
+[THC's favourite Tips, Tricks & Hacks (Cheat Sheet)](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
