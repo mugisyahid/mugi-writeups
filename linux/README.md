@@ -11,3 +11,8 @@ bash command tricks
 - **sudo**
 
     - `-l`, list? checking wheter user may run command
+
+- **chmod**
+
+    - `chmod 400`, r for current user
+    - `chmod 600`, r + w for current user
