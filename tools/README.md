@@ -63,3 +63,8 @@ Scanner of directory and hidden API of target webserver
 
     ???
     run: /opt/metasploit-framework/bin/msfconsole
+
+
+- **netcat**
+
+    - //TODO must learn today
