@@ -76,3 +76,10 @@ Scanner of directory and hidden API of target webserver
 - **wireshark**
 
     - //TODO must learn today
+
+
+## WEB
+
+- **https://hookbin.com/**, web to test api 
+
+- **https://gchq.github.io/CyberChef/**, The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
