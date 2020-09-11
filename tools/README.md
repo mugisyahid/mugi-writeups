@@ -28,7 +28,10 @@ Scanner of directory and hidden API of target webserver
 - **sqlmap**
     
     options:
-    - --file-read=<target_file>, download file of web server to local? 
+    - --file-read=<target_file>, download file of web server to local?
+    - -tables, scanning tables
+    - -T <table_name> --dump, dumping tables
+
 
 
 ## Cracker
