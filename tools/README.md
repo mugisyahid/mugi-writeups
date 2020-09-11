@@ -23,6 +23,11 @@ Scanner of directory and hidden API of target webserver
 
 - **gobuster**
 
+    options:
+
+    - -o, output to file
+    - -w, wordlist
+
 ## SQL Injection
 
 - **sqlmap**
@@ -55,3 +60,14 @@ Scanner of directory and hidden API of target webserver
 
 - **OWAPS**
     - all in scanner?
+
+
+- **metasploit**
+
+    ???
+    run: /opt/metasploit-framework/bin/msfconsole
+
+
+- **netcat**
+
+    - //TODO must learn today
