@@ -16,3 +16,7 @@ Things to inspect
     scan with [linepeas](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS).
 
 - **unususal process** such as cron to do something (curl, wget) 
+
+- **ls -la**
+
+    always `ls -la` to inspect folder/file thoroughly
