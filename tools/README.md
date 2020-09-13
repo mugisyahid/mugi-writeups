@@ -67,6 +67,7 @@ Scanner of directory and hidden API of target webserver
     - all in one exploit 
     - run: /opt/metasploit-framework/bin/msfconsole
     - meterpreter, pwncat-like console
+        - migrate?
     - exploit based on module, there are exploit, post, aux, encoder, etc module
 
 
