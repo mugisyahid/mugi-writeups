@@ -64,13 +64,20 @@ Scanner of directory and hidden API of target webserver
 
 - **metasploit**
 
-    ???
-    run: /opt/metasploit-framework/bin/msfconsole
+    - all in one exploit 
+    - run: /opt/metasploit-framework/bin/msfconsole
+    - meterpreter, pwncat-like console
+    - exploit based on module, there are exploit, post, aux, encoder, etc module
 
 
 - **netcat**
 
-    - //TODO must learn today
+    - TCP / UDP connection & listener, see man page for simple reverse shell
+    - `-l`, listening
+    - `-n`, Do not do any DNS or service lookups on any specified addresses, hostnames or ports.
+    - `-p`, specified port
+    - `-v`, verbose output 
+
 
 
 - **wireshark**
@@ -83,3 +90,10 @@ Scanner of directory and hidden API of target webserver
 - **https://hookbin.com/**, web to test api 
 
 - **https://gchq.github.io/CyberChef/**, The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+- **https://crackstation.net/**, online cracking hash tools
+
+## CTF tools
+
+- [pwncat](https://github.com/cytopia/pwncat)
+- [pwntools](https://github.com/Gallopsled/pwntools)
