@@ -1,6 +1,5 @@
 # Tools
 
-
 ## Scanner
 
 Scanner of port, services, version of target server
@@ -98,3 +97,14 @@ Scanner of directory and hidden API of target webserver
 
 - [pwncat](https://github.com/cytopia/pwncat)
 - [pwntools](https://github.com/Gallopsled/pwntools)
+
+## ?bruteforce tools
+
+- **[hydra]()**
+    - Example:  hydra -l user -P passlist.txt ftp://192.168.0.1
+
+
+## Windows Pentest Tools
+
+- **[enum4linux](https://github.com/CiscoCXSecurity/enum4linux)**, A Linux alternative to enum.exe for enumerating data from Windows and Samba hosts.
+    - -a $IP | tee out.log 

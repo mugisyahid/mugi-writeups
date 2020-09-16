@@ -19,6 +19,10 @@ useful [linux](linux/README.md) command
 ## Protocols
 [Protocols](protocols/README.md)
 
+## THM
+[TryHackMe tips & tricks](thm/README.md)
+
+
 ## MISC
 [MISC](MISC/README.md)
 
@@ -32,3 +36,5 @@ useful [linux](linux/README.md) command
 [John Hammond](https://www.youtube.com/user/RootOfTheNull)
 
 [THC's favourite Tips, Tricks & Hacks (Cheat Sheet)](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
+
+[Hacker's Grimoire](https://vulp3cula.gitbook.io/hackers-grimoire/) simple explanation & example
